@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="Entidades.Persona">
+    <Position X="2.75" Y="1" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIEAAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Persona.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Cliente">
+    <Position X="1.75" Y="4" Width="2" />
+    <InheritanceLine Type="Entidades.Persona" ManuallyRouted="true">
+      <Path>
+        <Point X="3.875" Y="3.132" />
+        <Point X="3.875" Y="4" />
+        <Point X="2.75" Y="4" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Cliente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Vehiculo">
+    <Position X="11.5" Y="1" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAARAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAgQAAAAA=</HashCode>
+      <FileName>Vehiculo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Bicicleta">
+    <Position X="8.5" Y="4.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Bicicleta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Moto">
+    <Position X="11.5" Y="4.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Moto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Auto">
+    <Position X="14.25" Y="4.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Auto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

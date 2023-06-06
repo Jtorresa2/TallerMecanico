@@ -1,0 +1,8 @@
+1;1;1;1;1;1;1;Cambio de Aceite;Juliana Torres;23000
+1003;Junior;Santiago;3015159004;Honda;Negra;123-GVB;Limpieza de filtros;Junior Rodriguez;152000
+1;1;1;1;1;1;1;Lavado General;Luis Pinto;530000
+1;1;1;1;1;1;1;Lavado General;Steven Molina;530000
+1;1;1;1;1;1;1;Regulación del Anticongelante;Nayid Castellar;26900
+a;b;c;d;e;f;g;Cambio de Aceite;Junior Rodriguez;23000
+1003;Junior;Santiago;3015159004;Honda;Negra;123-ABC;Revisión de los neumáticos;Steven Molina;38000
+1003;Juliana;Torres;3015159003;Honda;Dorada;1AB-CD1;Cambio de Aceite;Luis Pinto;23000

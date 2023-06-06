@@ -1,0 +1,11 @@
+D:\Biblioteca\Documents\Visual Studio Projects\TallerMecánico\TallerMecánico\bin\Debug\TallerMecánico.exe.config
+D:\Biblioteca\Documents\Visual Studio Projects\TallerMecánico\TallerMecánico\bin\Debug\TallerMecánico.exe
+D:\Biblioteca\Documents\Visual Studio Projects\TallerMecánico\TallerMecánico\bin\Debug\TallerMecánico.pdb
+D:\Biblioteca\Documents\Visual Studio Projects\TallerMecánico\TallerMecánico\bin\Debug\Entidades.dll
+D:\Biblioteca\Documents\Visual Studio Projects\TallerMecánico\TallerMecánico\bin\Debug\Entidades.pdb
+D:\Biblioteca\Documents\Visual Studio Projects\TallerMecánico\TallerMecánico\obj\Debug\Presentación.csproj.AssemblyReference.cache
+D:\Biblioteca\Documents\Visual Studio Projects\TallerMecánico\TallerMecánico\obj\Debug\Presentación.csproj.SuggestedBindingRedirects.cache
+D:\Biblioteca\Documents\Visual Studio Projects\TallerMecánico\TallerMecánico\obj\Debug\Presentación.csproj.CoreCompileInputs.cache
+D:\Biblioteca\Documents\Visual Studio Projects\TallerMecánico\TallerMecánico\obj\Debug\Presentación.csproj.CopyComplete
+D:\Biblioteca\Documents\Visual Studio Projects\TallerMecánico\TallerMecánico\obj\Debug\TallerMecánico.exe
+D:\Biblioteca\Documents\Visual Studio Projects\TallerMecánico\TallerMecánico\obj\Debug\TallerMecánico.pdb

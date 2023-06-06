@@ -1,0 +1,30 @@
+D:\Biblioteca\Documents\Visual Studio Projects\TallerMecánico\Entidades\bin\Debug\Entidades.dll
+D:\Biblioteca\Documents\Visual Studio Projects\TallerMecánico\Entidades\bin\Debug\Entidades.pdb
+D:\Biblioteca\Documents\Visual Studio Projects\TallerMecánico\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+D:\Biblioteca\Documents\Visual Studio Projects\TallerMecánico\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Biblioteca\Documents\Visual Studio Projects\TallerMecánico\Entidades\obj\Debug\Entidades.dll
+D:\Biblioteca\Documents\Visual Studio Projects\TallerMecánico\Entidades\obj\Debug\Entidades.pdb
+D:\Biblioteca\Documents\TallerMecanico\Entidades\bin\Debug\Entidades.dll
+D:\Biblioteca\Documents\TallerMecanico\Entidades\bin\Debug\Entidades.pdb
+D:\Biblioteca\Documents\TallerMecanico\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+D:\Biblioteca\Documents\TallerMecanico\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Biblioteca\Documents\TallerMecanico\Entidades\obj\Debug\Entidades.dll
+D:\Biblioteca\Documents\TallerMecanico\Entidades\obj\Debug\Entidades.pdb
+D:\Desktop\Taller-Mecanico\Entidades\bin\Debug\Entidades.dll
+D:\Desktop\Taller-Mecanico\Entidades\bin\Debug\Entidades.pdb
+D:\Desktop\Taller-Mecanico\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+D:\Desktop\Taller-Mecanico\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Desktop\Taller-Mecanico\Entidades\obj\Debug\Entidades.dll
+D:\Desktop\Taller-Mecanico\Entidades\obj\Debug\Entidades.pdb
+D:\Biblioteca\Documents\Taller-Mecanico\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+D:\Biblioteca\Documents\Taller-Mecanico\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Biblioteca\Documents\Taller-Mecanico\Entidades\obj\Debug\Entidades.dll
+D:\Biblioteca\Documents\Taller-Mecanico\Entidades\obj\Debug\Entidades.pdb
+D:\Biblioteca\Documents\Taller-Mecanico\Entidades\bin\Debug\Entidades.dll
+D:\Biblioteca\Documents\Taller-Mecanico\Entidades\bin\Debug\Entidades.pdb
+C:\Users\claud\Downloads\Taller-Mecanico-main\Entidades\bin\Debug\Entidades.dll
+C:\Users\claud\Downloads\Taller-Mecanico-main\Entidades\bin\Debug\Entidades.pdb
+C:\Users\claud\Downloads\Taller-Mecanico-main\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\claud\Downloads\Taller-Mecanico-main\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\claud\Downloads\Taller-Mecanico-main\Entidades\obj\Debug\Entidades.dll
+C:\Users\claud\Downloads\Taller-Mecanico-main\Entidades\obj\Debug\Entidades.pdb

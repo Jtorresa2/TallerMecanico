@@ -1,0 +1,12 @@
+C:\Users\JULIANA\source\repos\TALLERM\TALLERM\bin\Debug\TALLERM.exe.config
+C:\Users\JULIANA\source\repos\TALLERM\TALLERM\bin\Debug\TALLERM.exe
+C:\Users\JULIANA\source\repos\TALLERM\TALLERM\bin\Debug\TALLERM.pdb
+C:\Users\JULIANA\source\repos\TALLERM\TALLERM\obj\Debug\TALLERM.csproj.AssemblyReference.cache
+C:\Users\JULIANA\source\repos\TALLERM\TALLERM\obj\Debug\TALLERM.csproj.SuggestedBindingRedirects.cache
+C:\Users\JULIANA\source\repos\TALLERM\TALLERM\obj\Debug\TALLERM.INGRESAR.resources
+C:\Users\JULIANA\source\repos\TALLERM\TALLERM\obj\Debug\TALLERM.Properties.Resources.resources
+C:\Users\JULIANA\source\repos\TALLERM\TALLERM\obj\Debug\TALLERM.Form1.resources
+C:\Users\JULIANA\source\repos\TALLERM\TALLERM\obj\Debug\TALLERM.csproj.GenerateResource.cache
+C:\Users\JULIANA\source\repos\TALLERM\TALLERM\obj\Debug\TALLERM.csproj.CoreCompileInputs.cache
+C:\Users\JULIANA\source\repos\TALLERM\TALLERM\obj\Debug\TALLERM.exe
+C:\Users\JULIANA\source\repos\TALLERM\TALLERM\obj\Debug\TALLERM.pdb
